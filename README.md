@@ -1,4 +1,4 @@
-# HALF_ADDER_SUBTRACTOR
+# EX-03-HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -51,8 +51,8 @@ Figure -02 HALF Subtractor
 **Program:**
 
 ```
-Developed by: JAVITH FARKHAN S
-RegisterNumber: 212221240017
+Developed by: Kersoan P 
+RegisterNumber: 212221230050
 
 **HALF_ADDER**
 
